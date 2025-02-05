@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coolstuff on LauraTech</title>
+    <link>http://localhost:1313/tags/coolstuff/</link>
+    <description>Recent content in Coolstuff on LauraTech</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 May 2015 14:41:55 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/coolstuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coolstuff</title>
+      <link>http://localhost:1313/posts/coolstuff/</link>
+      <pubDate>Thu, 14 May 2015 14:41:55 +0100</pubDate>
+      <guid>http://localhost:1313/posts/coolstuff/</guid>
+      <description>&lt;p&gt;Thursday, May 14, 2015&#xA;&lt;!-- raw HTML omitted --&gt;Nim: A Game&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;I wanted to write something more complex in Javascript. I&amp;rsquo;d written a version of Nim for a class in college, and it seemed like a good candidate here.  My Nim: &lt;!-- raw HTML omitted --&gt;Nim: A Game&lt;!-- raw HTML omitted --&gt; Wiki for rules: &lt;!-- raw HTML omitted --&gt;en.wikipedia.org/wiki/Nim&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Wednesday, February 23, 2011&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
