@@ -3,7 +3,5 @@ languageCode = 'en-us'
 title = 'LauraTech'
 sectionPagesMenu = 'main'
 
-module:
-  imports:
-    github.com/alexandrevicenzi/soho
+module = 'github.com/alexandrevicenzi/soho'
     
