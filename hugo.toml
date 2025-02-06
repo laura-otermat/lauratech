@@ -1,6 +1,5 @@
 baseURL = 'https://www.lauratech.com/'
 languageCode = 'en-us'
 title = 'LauraTech'
-theme = 'soho'
 sectionPagesMenu = 'main'
 
