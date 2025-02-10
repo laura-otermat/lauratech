@@ -51,7 +51,6 @@
       {{- if not .Lastmod.IsZero }}
       "dateModified": {{ .Lastmod.Format $ISO8601 }},
       {{- end }}
-      "description": {{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }},
       "inLanguage": {{ .Site.LanguageCode }},
       "potentialAction": [
         {
