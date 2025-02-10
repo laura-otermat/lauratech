@@ -8,5 +8,5 @@ sectionPagesMenu = 'main'
     disable = false
     ignoreConfig = false
     ignoreImports = false
-    path = 'github.com/alexandrevicenzi/soho'
+    path = 'soho'
     
