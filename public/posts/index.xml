@@ -6,14 +6,35 @@
     <description>Recent content in Posts on LauraTech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Feb 2025 12:05:12 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 16:32:51 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nim</title>
+      <link>http://localhost:1313/posts/nim/</link>
+      <pubDate>Wed, 05 Feb 2025 16:32:51 +0100</pubDate>
+      <guid>http://localhost:1313/posts/nim/</guid>
+      <description>&lt;p&gt;I wonder if I can add some content here.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 05 Feb 2025 12:05:12 +0100</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coolstuff</title>
+      <link>http://localhost:1313/posts/coolstuff/</link>
+      <pubDate>Thu, 14 May 2015 14:41:55 +0100</pubDate>
+      <guid>http://localhost:1313/posts/coolstuff/</guid>
+      <description>&lt;p&gt;Thursday, May 14, 2015&#xA;&lt;!-- raw HTML omitted --&gt;Nim: A Game&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;I wanted to write something more complex in Javascript. I&amp;rsquo;d written a version of Nim for a class in college, and it seemed like a good candidate here.  My Nim: &lt;!-- raw HTML omitted --&gt;Nim: A Game&lt;!-- raw HTML omitted --&gt; Wiki for rules: &lt;!-- raw HTML omitted --&gt;en.wikipedia.org/wiki/Nim&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Wednesday, February 23, 2011&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Sun, 14 Sep 2014 14:34:24 +0100</pubDate>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;d be curious to hear from anybody reading my site.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;d like to reach me, my email is: &lt;a href=&#34;mailto:laura@lauratech.com&#34;&gt;laura@lauratech.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The sections &amp;ldquo;Stuff&amp;rdquo;, &amp;ldquo;Post&amp;rdquo;, and &amp;ldquo;Videos&amp;rdquo; are for different things I&amp;rsquo;ve made.  &amp;ldquo;Stuff&amp;rdquo; is programs I&amp;rsquo;ve written.  You can read more about them by clicking on &amp;ldquo;Stuff&amp;rdquo; or use them by clicking on the titles.  &amp;ldquo;Posts&amp;rdquo; is articles I&amp;rsquo;ve written about different, sometimes geeky, things I&amp;rsquo;m interested in.  &amp;ldquo;Tools&amp;rdquo; is a list of recommended tools I&amp;rsquo;ve used to write my blog.  &amp;ldquo;Videos&amp;rdquo; is a slew of youtube videos I&amp;rsquo;ve recorded and uploaded.  &amp;ldquo;Flirting in Hexadecimal&amp;rdquo; and &amp;ldquo;Cursing in Binary&amp;rdquo; are by far my favorites.  They get less geeky as you go down the list. &amp;ldquo;Friends&amp;rdquo; are people I know who also have blogs I&amp;rsquo;d recommend perusing.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

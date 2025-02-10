@@ -1,6 +1,6 @@
 +++
 date = '2025-02-05T16:32:51+01:00'
-draft = true
+draft = false
 title = 'Nim'
 menus = 'nim'
 +++

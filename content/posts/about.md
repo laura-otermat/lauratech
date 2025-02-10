@@ -1,6 +1,6 @@
 +++
 date = '2014-09-14T14:34:24+01:00'
-draft = true
+draft = false
 title = 'Contact Me'
 +++
 
