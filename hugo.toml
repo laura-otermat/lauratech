@@ -1,6 +1,7 @@
 baseURL = 'https://www.lauratech.com/'
 languageCode = 'en-us'
 title = 'LauraTech'
+description = 'non-empty'
 sectionPagesMenu = 'main'
 
 [module]
