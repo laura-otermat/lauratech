@@ -5,5 +5,5 @@ title = 'Acronym Generator'
 menu = 'main'
 +++
 
-{{< js_wc >}}
+{{< acronym >}}
 
