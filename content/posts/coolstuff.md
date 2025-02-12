@@ -1,8 +1,7 @@
 +++
 date = '2015-05-14T14:41:55+01:00'
-draft = false
+draft = true
 title = 'Coolstuff'
-tags = ['coolstuff']
 +++
 
 Thursday, May 14, 2015
