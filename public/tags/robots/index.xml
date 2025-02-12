@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robots on LauraTech</title>
+    <link>http://localhost:1313/tags/robots/</link>
+    <description>Recent content in Robots on LauraTech</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Sep 2015 14:41:55 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/robots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robots</title>
+      <link>http://localhost:1313/posts/robots/</link>
+      <pubDate>Mon, 14 Sep 2015 14:41:55 +0100</pubDate>
+      <guid>http://localhost:1313/posts/robots/</guid>
+      <description>&lt;p&gt;Adafruit E for Electronics&lt;/p&gt;&#xA;&lt;p&gt;These YouTube videos, produced by Adafruit Industries, help explain some of the nuts and bolts of electronics, a precursor to building robots. I like the puppet-and-person approach to teaching and think it makes it easier to pay attention, even though I&amp;rsquo;m not the target audience.&lt;/p&gt;&#xA;&lt;p&gt;Monday, January 28, 2013&lt;br&gt;&#xA;Robots&lt;/p&gt;&#xA;&lt;p&gt;Robots are cool because, once they are programmed, they work autonomously. I want to learn how to make them. I know how to program computers, so I should be able to program a robot. So, I&amp;rsquo;ve started learning how to hook up the circuitry.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

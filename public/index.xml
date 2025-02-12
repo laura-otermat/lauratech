@@ -9,25 +9,32 @@
     <lastBuildDate>Wed, 05 Feb 2025 18:46:28 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Stuff</title>
+      <title>Acronym Generator</title>
       <link>http://localhost:1313/stuff/</link>
       <pubDate>Wed, 05 Feb 2025 18:46:28 +0100</pubDate>
       <guid>http://localhost:1313/stuff/</guid>
-      <description>&lt;p&gt;This is the stuff page.&lt;/p&gt;&#xA;&lt;script language=&#34;Javascript&#34; type=&#34;text/javascript&#34; src =&#34;/js/myscripts.js&#34;&gt;&lt;/script&gt;&#xA;&lt;br /&gt;&#xA;&lt;p&gt;&#xA;&lt;h2&gt;Press the button to ask the Generator to generate your acronym.&lt;/h2&gt;&#xA;&lt;/p&gt;&#xA;&lt;form action=&#34;#&#34;&gt;&#xA;    &lt;input type=&#34;button&#34; value=&#34;Acronym Generator&#34; id=&#34;generator&#34; /&gt;&#xA;&lt;/form&gt;</description>
+      <description>&lt;script language=&#34;Javascript&#34; type=&#34;text/javascript&#34; src =&#34;/lauratech/js/acronym.js&#34;&gt;&lt;/script&gt;&#xA;&lt;br /&gt;&#xA;&lt;p&gt;&#xA;&lt;h2&gt;Press the button to ask the Generator to generate your acronym.&lt;/h2&gt;&#xA;&lt;/p&gt;&#xA;&lt;form action=&#34;#&#34;&gt;&#xA;    &lt;input type=&#34;button&#34; value=&#34;Acronym Generator&#34; id=&#34;generator&#34; /&gt;&#xA;&lt;/form&gt;</description>
     </item>
     <item>
-      <title>Nim</title>
-      <link>http://localhost:1313/posts/nim/</link>
-      <pubDate>Wed, 05 Feb 2025 16:32:51 +0100</pubDate>
-      <guid>http://localhost:1313/posts/nim/</guid>
-      <description>&lt;p&gt;I wonder if I can add some content here.&lt;/p&gt;</description>
+      <title>Magic</title>
+      <link>http://localhost:1313/magic/</link>
+      <pubDate>Wed, 05 Feb 2025 18:46:28 +0100</pubDate>
+      <guid>http://localhost:1313/magic/</guid>
+      <description>&lt;!DOCTYPE html PUBLIC &#34;-//W3C//DTD XHTML 1.0 Transitional//EN&#34;&gt;&#xA;&lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;&#xA;&lt;head&gt;&#xA;    &lt;title&gt;The Magic 8 Ball&lt;/title&gt;&#xA;    &lt;script language=&#34;Javascript&#34; type=&#34;text/javascript&#34; src =&#34;/lauratech/js/magic.js&#34;&gt;&lt;/script&gt;&#xA;&lt;/head&gt;&#xA;&lt;body bgcolor=&#34;#FFFFFF&#34;&gt;&#xA;&lt;h2&gt;Press the button to shake the Magic 8 Ball.&lt;/h2&gt;&#xA;&lt;form action=&#34;#&#34;&gt;&#xA;    &lt;span id=&#34;answer&#34; name=&#34;answer&#34; class=&#34;answer&#34;&gt;...&lt;/span&gt;&lt;br /&gt;&#xA;    &lt;input type=&#34;button&#34; value=&#34;Shake Magic 8 Ball&#34; id=&#34;calculator&#34; /&gt;&#xA;&lt;/form&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 05 Feb 2025 12:05:12 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>Nim: A Game</title>
+      <link>http://localhost:1313/nim/</link>
+      <pubDate>Wed, 05 Feb 2025 18:46:28 +0100</pubDate>
+      <guid>http://localhost:1313/nim/</guid>
+      <description>&lt;script language=&#34;Javascript&#34; type=&#34;text/javascript&#34; src=&#34;http://localhost:1313/lauratech/js/nim.js&#34;&gt;&lt;/script&gt;&#xA;&lt;p&gt;&#xA;&lt;/p&gt;&#xA;&lt;span class=&#34;date&#34;&gt;Saturday, June 25, 2011&lt;/span&gt;&#xA;&lt;br /&gt;&#xA;&lt;span class=&#34;title&#34;&gt;About Nim&lt;/span&gt;&#xA;&lt;p&gt;&#xA;Nim is a game.  You and another player take turns removing 1 to all of the matchsticks from any row.  The loser is the person who removes the last matchstick.&#xA;&lt;/p&gt;&#xA;&lt;span class=&#34;title&#34;&gt;Gameboard&lt;/span&gt;&#xA;&lt;span id=&#34;gameboard&#34; name=&#34;gameboard&#34; class=&#34;gameboard&#34;&gt;...&lt;/span&gt;&#xA;&lt;br /&gt;&#xA;&lt;span class=&#34;title&#34;&gt;Gameplay&lt;/span&gt;&#xA;&lt;span id=&#34;console&#34; name=&#34;console&#34; class=&#34;console&#34;&gt;&#xA;    &lt;form action=&#34;#&#34;&gt;&#xA;        Would you like to play:&#xA;        &lt;p&gt;&#xA;        &lt;input type=&#34;button&#34; value=&#34;2 Player -- You vs. Another User&#34; id=&#34;twoplayer&#34; /&gt;&#xA;        &lt;/p&gt;&#xA;        &lt;p&gt;&#xA;        &lt;input type=&#34;button&#34; value=&#34;1 player -- You vs. Easy-level computer&#34; id=&#34;easycomputer&#34; /&gt;&#xA;        &lt;/p&gt;&#xA;        &lt;p&gt;&#xA;        &lt;input type=&#34;button&#34; value=&#34;1 player -- You vs. Medium-level computer&#34; id=&#34;mediumcomputer&#34; /&gt;&#xA;        &lt;/p&gt;&#xA;        &lt;p&gt;&#xA;        &lt;input type=&#34;button&#34; value=&#34;1 player -- You vs. Difficult-level computer&#34; id=&#34;difficultcomputer&#34; /&gt;&#xA;        &lt;/p&gt;&#xA;    &lt;/form&gt;&#xA;&lt;/span&gt;</description>
+    </item>
+    <item>
+      <title>Robots</title>
+      <link>http://localhost:1313/posts/robots/</link>
+      <pubDate>Mon, 14 Sep 2015 14:41:55 +0100</pubDate>
+      <guid>http://localhost:1313/posts/robots/</guid>
+      <description>&lt;p&gt;Adafruit E for Electronics&lt;/p&gt;&#xA;&lt;p&gt;These YouTube videos, produced by Adafruit Industries, help explain some of the nuts and bolts of electronics, a precursor to building robots. I like the puppet-and-person approach to teaching and think it makes it easier to pay attention, even though I&amp;rsquo;m not the target audience.&lt;/p&gt;&#xA;&lt;p&gt;Monday, January 28, 2013&lt;br&gt;&#xA;Robots&lt;/p&gt;&#xA;&lt;p&gt;Robots are cool because, once they are programmed, they work autonomously. I want to learn how to make them. I know how to program computers, so I should be able to program a robot. So, I&amp;rsquo;ve started learning how to hook up the circuitry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coolstuff</title>
@@ -42,6 +49,13 @@
       <pubDate>Sun, 14 Sep 2014 14:34:24 +0100</pubDate>
       <guid>http://localhost:1313/posts/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;d be curious to hear from anybody reading my site.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;d like to reach me, my email is: &lt;a href=&#34;mailto:laura@lauratech.com&#34;&gt;laura@lauratech.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The sections &amp;ldquo;Stuff&amp;rdquo;, &amp;ldquo;Post&amp;rdquo;, and &amp;ldquo;Videos&amp;rdquo; are for different things I&amp;rsquo;ve made.  &amp;ldquo;Stuff&amp;rdquo; is programs I&amp;rsquo;ve written.  You can read more about them by clicking on &amp;ldquo;Stuff&amp;rdquo; or use them by clicking on the titles.  &amp;ldquo;Posts&amp;rdquo; is articles I&amp;rsquo;ve written about different, sometimes geeky, things I&amp;rsquo;m interested in.  &amp;ldquo;Tools&amp;rdquo; is a list of recommended tools I&amp;rsquo;ve used to write my blog.  &amp;ldquo;Videos&amp;rdquo; is a slew of youtube videos I&amp;rsquo;ve recorded and uploaded.  &amp;ldquo;Flirting in Hexadecimal&amp;rdquo; and &amp;ldquo;Cursing in Binary&amp;rdquo; are by far my favorites.  They get less geeky as you go down the list. &amp;ldquo;Friends&amp;rdquo; are people I know who also have blogs I&amp;rsquo;d recommend perusing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nim</title>
+      <link>http://localhost:1313/posts/nim/</link>
+      <pubDate>Sat, 25 Jun 2011 16:32:51 +0100</pubDate>
+      <guid>http://localhost:1313/posts/nim/</guid>
+      <description>&lt;p&gt;I wonder if I can add some content here.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
