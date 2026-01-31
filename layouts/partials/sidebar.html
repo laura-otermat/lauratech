@@ -3,22 +3,25 @@
     <div class="sidebar-about">
       <style>
         .sidebar .author-image {
-          width: 220px;
-          border-radius: 50%;
+          width: auto;
+          max-width: 100%;
+          border-radius: 8px;
           overflow: hidden;
           margin: 0 auto;
-          border: 6px solid #fff;
         }
         .sidebar .author-image img {
           width: 100%;
-          height: 100%;
-          object-fit: cover;
+          height: auto;
+          object-fit: contain;
           display: block;
-          border-radius: 0 !important;
+          border-radius: 8px !important;
+          border: 4px solid #49757a;
+          box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+          transition: box-shadow 160ms ease, transform 160ms ease;
         }
       </style>
       <div class="author-image">
-            <img src="/lauratech/images/laura.jpg" class="img-circle img-headshot center" alt="Profile Picture">
+            <img src="/lauratech/images/laura.jpg" class="img-rectangle img-headshot center" alt="Profile Picture">
         </div>
 
       <h1>{{ .Site.Title }}</h1>
