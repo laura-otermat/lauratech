@@ -298,19 +298,7 @@ ul.posts li,
   border-bottom-right-radius: 4px;
 }
 
-.share-buttons {
-  text-align: center;
-  font-size: 2rem;
-  margin-top: 2rem;
-}
-
-.share-buttons a {
-  padding: 0 0.6rem;
-}
-
-.share-buttons a:hover {
-  opacity: 0.75;
-}
+.share-buttons { display: none !important; }
 
 ul.tags {
   list-style: none;
