@@ -1,0 +1,5 @@
+Add an Apple Touch icon if you want iOS homescreen support:
+
+- Add: `static/apple-touch-icon-144-precomposed.png`
+
+After adding, rebuild and clear your cache to test on iOS / Safari.
