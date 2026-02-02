@@ -1,0 +1,5 @@
+/* Overrides for site-specific stylesheet (loaded after theme CSS)
+   Put custom rules here to override theme defaults. */
+
+/* Hide share buttons */
+.share-buttons { display: none !important; }
